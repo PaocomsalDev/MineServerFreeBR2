@@ -2,5 +2,9 @@
    {
       "permission" : "member",
       "xuid" : "2535458643040726"
+   },
+   {
+      "permission" : "operator",
+      "xuid" : "2535439021599453"
    }
 ]
