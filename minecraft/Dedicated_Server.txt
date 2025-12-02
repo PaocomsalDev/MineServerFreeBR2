@@ -1,28 +1,3 @@
 Dedicated_Server.txt
-[2025-12-01 13:08:17:752 INFO] Starting Server
-[2025-12-01 13:08:17:752 INFO] Version: 1.21.124.2
-[2025-12-01 13:08:17:752 INFO] Session ID: 2a4154b4-f197-46b8-bdb1-6679e9762300
-[2025-12-01 13:08:17:752 INFO] Build ID: 39064636
-[2025-12-01 13:08:17:752 INFO] Branch: r/21_u12
-[2025-12-01 13:08:17:752 INFO] Commit ID: b32c062ab63331a9d21cc72244192f2874c7277e
-[2025-12-01 13:08:17:752 INFO] Configuration: Publish
-[2025-12-01 13:08:17:754 INFO] Level Name: Bedrock level
-[2025-12-01 13:08:17:756 INFO] No CDN config file found at: cdn_config.json for dedicated server
-[2025-12-01 13:08:17:756 INFO] Game mode: 0 Survival
-[2025-12-01 13:08:17:756 INFO] Difficulty: 1 EASY
-[2025-12-01 13:08:17:759 WARN] Content logging to console is disabled.  Enable it with content-log-console-output-enabled=true in server.properties
-[2025-12-01 13:08:19:575 INFO] Opening level 'worlds/Bedrock level/db'
-[2025-12-01 13:08:19:837 INFO] Pack Stack - None
-[2025-12-01 13:08:21:914 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
-[2025-12-01 13:08:21:914 INFO] IPv6 supported, port: 19133: Used for gameplay
-[2025-12-01 13:08:22:043 INFO] Waiting for Minecraft services...
-[2025-12-01 13:08:22:588 INFO] Server started.
-[2025-12-01 13:08:22:589 INFO] ================ TELEMETRY MESSAGE ===================
-[2025-12-01 13:08:22:589 INFO] Server Telemetry is currently not enabled. 
-[2025-12-01 13:08:22:589 INFO] Enabling this telemetry helps us improve the game.
-[2025-12-01 13:08:22:589 INFO] 
-[2025-12-01 13:08:22:589 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
-[2025-12-01 13:08:22:589 INFO] to the server.properties file in the handheld/src-server directory
-[2025-12-01 13:08:22:589 INFO] ======================================================
-[2025-12-01 13:08:31:896 INFO] Server stop requested.
-[2025-12-01 13:08:31:907 INFO] Stopping server...
+[2025-12-02 19:14:15:681 INFO] Server stop requested.
+[2025-12-02 19:14:15:704 INFO] Stopping server...
