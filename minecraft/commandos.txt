@@ -1,0 +1,3 @@
+raio aleatorio execute at @r run summon minecraft:lightning_bolt ~ ~ ~
+wither em guilherme execute at guimerpac run summon minecraft:wither ~ ~ ~
+matar wither kill @e[type=wither]

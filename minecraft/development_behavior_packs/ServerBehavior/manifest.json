@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Pacote de comportamento do server :D",
+        "name": "Por algum motivo fica invertido :(",
+        "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
+        "version": [ 1, 2, 0 ],
+        "min_engine_version": [ 1, 21, 0]
+    },
+    "modules": [
+        {
+            "description": "ohhhh da mimes",
+            "type": "data",
+            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+            "version": [1, 2, 0]
+        }
+    ]
+}

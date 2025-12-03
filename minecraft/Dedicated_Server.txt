@@ -1,3 +1,34 @@
 Dedicated_Server.txt
-[2025-12-02 19:14:15:681 INFO] Server stop requested.
-[2025-12-02 19:14:15:704 INFO] Stopping server...
+[2025-12-03 17:03:08:673 INFO] Starting Server
+[2025-12-03 17:03:08:673 INFO] Version: 1.21.124.2
+[2025-12-03 17:03:08:673 INFO] Session ID: 0fb68cb6-5e77-4b95-b260-4e7c66e3e349
+[2025-12-03 17:03:08:673 INFO] Build ID: 39064636
+[2025-12-03 17:03:08:673 INFO] Branch: r/21_u12
+[2025-12-03 17:03:08:673 INFO] Commit ID: b32c062ab63331a9d21cc72244192f2874c7277e
+[2025-12-03 17:03:08:673 INFO] Configuration: Publish
+[2025-12-03 17:03:08:673 INFO] Level Name: Bedrock level
+[2025-12-03 17:03:08:674 INFO] No CDN config file found at: cdn_config.json for dedicated server
+[2025-12-03 17:03:08:674 INFO] Game mode: 0 Survival
+[2025-12-03 17:03:08:674 INFO] Difficulty: 1 EASY
+[2025-12-03 17:03:08:675 WARN] Content logging to console is disabled.  Enable it with content-log-console-output-enabled=true in server.properties
+[2025-12-03 17:03:09:157 INFO] Content logging to disk is enabled. Writing log to: ContentLog2025-12-03_17-03-09
+[2025-12-03 17:03:09:157 INFO] Opening level 'worlds/Bedrock level/db'
+[2025-12-03 17:03:09:176 INFO] Pack Stack - [00] Por algum motivo fica invertido :( (id: ee649bcf-256c-4013-9068-6a802b89d756, version: 1.2.0) @ development_behavior_packs/ServerBehavior
+[2025-12-03 17:03:10:088 INFO] IPv4 supported, port: 19132: Used for gameplay and LAN discovery
+[2025-12-03 17:03:10:088 INFO] IPv6 supported, port: 19133: Used for gameplay
+[2025-12-03 17:03:10:117 INFO] Waiting for Minecraft services...
+[2025-12-03 17:03:10:620 INFO] Server started.
+[2025-12-03 17:03:10:620 INFO] ================ TELEMETRY MESSAGE ===================
+[2025-12-03 17:03:10:620 INFO] Server Telemetry is currently not enabled. 
+[2025-12-03 17:03:10:620 INFO] Enabling this telemetry helps us improve the game.
+[2025-12-03 17:03:10:620 INFO] 
+[2025-12-03 17:03:10:620 INFO] To enable this feature, add the line 'emit-server-telemetry=true'
+[2025-12-03 17:03:10:620 INFO] to the server.properties file in the handheld/src-server directory
+[2025-12-03 17:03:10:620 INFO] ======================================================
+[2025-12-03 17:03:50:948 INFO] Player connected: Paocomsal8016, xuid: 2535439021599453
+[2025-12-03 17:03:57:746 INFO] Player Spawned: Paocomsal8016 xuid: 2535439021599453, pfid: 1ABB02C3EEEB75AA
+[2025-12-03 17:04:47:532 INFO] Set the time to 2269000
+[2025-12-03 17:05:07:748 INFO] Set Paocomsal8016's game mode to Creative
+[2025-12-03 17:07:23:336 INFO] Player disconnected: Paocomsal8016, xuid: 2535439021599453, pfid: 1ABB02C3EEEB75AA
+[2025-12-03 17:07:27:586 INFO] Server stop requested.
+[2025-12-03 17:07:27:634 INFO] Stopping server...
