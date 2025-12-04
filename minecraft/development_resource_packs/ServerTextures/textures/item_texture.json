@@ -1,0 +1,8 @@
+{
+  "resource_pack_name": "ServerTextures",
+  "texture_data": {
+    "demo:goo": {
+      "textures": "textures/items/boss_catalyst"
+    }
+  }
+}

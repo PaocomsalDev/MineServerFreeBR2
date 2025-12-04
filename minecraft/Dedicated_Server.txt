@@ -1,0 +1,5 @@
+Dedicated_Server.txt
+[2025-12-04 15:56:08:244 INFO] Set Paocomsal8016's game mode to Spectator
+[2025-12-04 15:56:23:314 INFO] Set Paocomsal8016's game mode to Creative
+[2025-12-04 15:57:32:284 INFO] Server stop requested.
+[2025-12-04 15:57:32:333 INFO] Stopping server...
