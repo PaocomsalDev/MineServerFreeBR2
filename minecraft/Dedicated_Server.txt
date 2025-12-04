@@ -1,7 +1,0 @@
-Dedicated_Server.txt
-[2025-12-04 00:33:56:343 INFO] Teleported Paocomsal8016 to AnonimouRGam
-[2025-12-04 00:34:24:723 INFO] Teleported Paocomsal8016 to FlanelinhaDB
-[2025-12-04 00:36:31:248 ERROR] Unknown command: close. Please check that the command exists and that you have permission to use it.
-[2025-12-04 00:36:39:182 INFO] Player disconnected: AnonimouRGam, xuid: 2535458643040726, pfid: 7BD0E86D69D13A9F
-[2025-12-04 00:36:45:827 INFO] Server stop requested.
-[2025-12-04 00:36:45:874 INFO] Stopping server...
